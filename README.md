@@ -107,7 +107,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manupanu&theme=redical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manupanu&theme=radical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
