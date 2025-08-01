@@ -5,14 +5,13 @@
 </h1>
 
 <p align="center">
-  <b>🏢 Field Test Technician for E-Bike Quality @ Specialized Bikes</b><br>
   <em>📍 Switzerland 🇨🇭 • Cyclist 🚴‍♂️ • Hardware Hacker ⚡ • Software Enthusiast 💻</em>
 </p>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-anrig-891853188/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.manuelanrig.ch)
+[![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.manuelanrig.ch)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manupanu)
 
 </div>
@@ -94,13 +93,6 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=manupanu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=manupanu&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupanu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manupanu&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
