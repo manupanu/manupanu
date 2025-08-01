@@ -18,16 +18,6 @@
 
 ---
 
-## 💭 Quote of the Day
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 ## 🚴‍♂️ About Me
 
 <table>
@@ -87,23 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=manupanu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=manupanu&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupanu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manupanu&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🎯 Current Goals & Focus
 
 <div align="center">
@@ -116,11 +89,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manupanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/manupanu?label=Followers&style=social" alt="GitHub Followers" />
-</div>
 
 <div align="center">
   <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
