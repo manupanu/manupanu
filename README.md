@@ -1,7 +1,7 @@
 <!-- Profile README for Manuel Anrig (@manupanu) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Manuel!+👋;Welcome+to+my+GH!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GH!&center=true&size=30">
 </h1>
 
 <p align="center">
@@ -17,17 +17,6 @@
 </div>
 
 ---
-
-## 💭 Quote of the Day
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 ## 🚴‍♂️ About Me
 
 <table>
