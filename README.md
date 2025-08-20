@@ -14,18 +14,13 @@ Field Test Technician (E‑Bike Quality) at **Specialized** in Switzerland.
 
 </div>
 
----
-
 ## Tech & Tools
-
 **Languages:** Python · C · C++ · C# · JavaScript  
 **Tooling & Platforms:** Linux · Git · VS Code · Raspberry Pi · Arduino · 3D printing  
 **Domains:** Test automation · Data parsing · Embedded experimentation · Rapid prototyping
 
----
 
 ## Current Improvement Focus
-
 - Python test automation 
 - Expanding software engineering skills 
 - Quality assurance methodologies 
