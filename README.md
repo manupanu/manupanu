@@ -1,3 +1,51 @@
+# Manuel Anrig
+
+Field Test Technician (E‑Bike Quality) at **Specialized** in Switzerland.  
+
+
+---
+
+## Tech & Tools
+
+**Languages:** Python · C · C++ · C# · JavaScript  
+**Tooling & Platforms:** Linux · Git · VS Code · Raspberry Pi · Arduino · 3D printing  
+**Domains:** Test automation · Data parsing · Embedded experimentation · Rapid prototyping
+
+---
+
+## Current Improvement Focus
+
+- Turning exploratory notebooks into maintained CLI utilities
+- Benchmarking instead of relying on intuition
+- Better structure for test data artifacts
+- Documenting small, incremental wins
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/manuel-anrig-891853188/) • [Website](https://www.manuelanrig.ch) • [GitHub](https://github.com/manupanu)
+
+If you have a concrete suggestion on any repo, open an issue—specific feedback beats generic praise.
+
+---
+
+## (Light) Stats
+
+<div>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=manupanu&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupanu&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</div>
+
+<!-- You can remove this entire stats section if you prefer a cleaner profile. -->
+
+---
+
+Thanks for stopping by.  
+Manuel 
+
+
+
 <!-- Profile README for Manuel Anrig (@manupanu) -->
 
 <h1 align="center">
